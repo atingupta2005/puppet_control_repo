@@ -1,4 +1,6 @@
 forge 'https://forge.puppet.com'
+mod 'puppetlabs/iis', '7.0.0'
+mod 'puppetlabs/pwshlib', '0.4.0'
 mod 'puppetlabs/apache', '5.4.0'
 mod "puppetlabs/inifile", '1.6.0'
 mod 'puppetlabs/stdlib', '4.13.1'
