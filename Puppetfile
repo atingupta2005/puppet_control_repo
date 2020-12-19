@@ -1,5 +1,6 @@
 forge 'https://forge.puppet.com'
 mod 'puppetlabs/apache', '5.4.0'
+mod "puppetlabs/inifile", '1.6.0'
 mod 'puppetlabs/stdlib', '4.13.1'
 mod 'puppetlabs/concat',  '2.2.1'
 mod 'puppet/hiera', '3.3.2'
